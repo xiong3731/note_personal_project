@@ -1,5 +1,5 @@
 # README
-> sync from https://github.com/xiong3731/note_personal_project
+> [https://github.com/xiong3731/note_personal_project](https://github.com/xiong3731/note_personal_project)
 ---
 ## 目录结构
 
