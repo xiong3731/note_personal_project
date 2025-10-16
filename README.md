@@ -1,8 +1,9 @@
 # README
-this repo will record my personal project, and the first project will comming soon~
+> sync from https://github.com/xiong3731/note_personal_project
+---
+## 目录结构
 
 
-
-- TODO
-  - 分布式存储研究
-  - wordpress百万并发架构
+- Distributed_Storage_Project
+  - [README.md](<./Distributed_Storage_Project/README.md>)
+- [README.md](<./README.md>)
